@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Ziyan, you can also call me Cecilia. 
 
-<!--
-**xiaziyan1999/xiaziyan1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [bike share project](https://github.com/xiaziyan1999/Nov-Bike-Share-Project)
+- 🌱 I’m currently learning pytorch, tensorflow, keras, Neural Network 
+- 👯 I’m looking to collaborate on healthcare AI project
+- 🤔 I’m looking for help with landing a job in media/healthcare industry
+- 💬 Ask me about time series project
+- 📫 How to reach me: \
+email: xiaziyan1999@gmail.com\
+Linkedin: https://www.linkedin.com/in/xiaziyan
+- 😄 Pronouns: she/her/hers
+- ⚡ Fun fact: dog lover
