@@ -9,5 +9,4 @@
 - 📫 How to reach me: \
 email: xiaziyan1999@gmail.com\
 Linkedin: https://www.linkedin.com/in/xiaziyan
-- 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: dog lover
+- 😄 personal website: https://xiaziyan1999.github.io/
